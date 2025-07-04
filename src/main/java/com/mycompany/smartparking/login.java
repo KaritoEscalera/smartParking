@@ -17,6 +17,7 @@ public class login extends javax.swing.JFrame {
      */
     public login() {
         initComponents();
+        System.out.println("Holiiiis");
     }
 
     /**
